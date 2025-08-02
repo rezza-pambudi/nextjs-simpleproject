@@ -6,7 +6,7 @@ export default function PostPage () {
         <Heading>Belajar Next.js</Heading>
         <p>Ini adalah halaman belajar Next.js dalam proyek sederhana ini.</p>
         <p>Anda dapat menambahkan lebih banyak konten di sini.</p>
-        <p>Selamat belajar!</p>
+        <img src="/images/thumbnail-1.jpeg" alt="" width={500} className="mb-2 rounded" />
         </>
     );
 }
