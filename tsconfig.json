@@ -31,7 +31,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-, "app/layout.tsx", "app/page.jsx", "app/about/page.jsx", "app/contact/page.jsx", "app/blog/page.jsx", "app/blog/layout.jsx", "app/blog/latihan-route-next/page.jsx", "app/blog/judul-berita/page.jsx"  ],
+, "app/layout.tsx", "app/page.jsx", "app/about/page.jsx", "app/contact/page.jsx", "app/blog/page.jsx", "app/blog/layout.jsx", "app/blog/latihan-route-next/page.jsx", "app/blog/belajar-nextjs/page.jsx"  ],
   "exclude": [
     "node_modules"
   ]

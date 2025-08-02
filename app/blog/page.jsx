@@ -10,7 +10,7 @@ export default function BlogPage() {
 
       <ul>
         <li>
-          <Link href="/blog/judul-berita" prefetch={false}>
+          <Link href="/blog/belajar-nextjs" prefetch={false}>
             Belajar Next.js
           </Link>
         </li>

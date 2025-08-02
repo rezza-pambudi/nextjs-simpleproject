@@ -1,10 +1,12 @@
 import './globals.css';
+import './fonts.css';
 import NavBar from "@/components/Navbar.jsx";
 import Footer from "@/components/Footer.jsx";
+import { roboto } from "@/app/fonts";
 
 export default function Layout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" className={roboto.variable}>
       <head>
         <title>Next.js Simple Project</title>
       </head>
